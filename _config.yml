@@ -2,7 +2,7 @@ title: X-Insights
 description: >-
   X-Insights is the Analytics Domain Club of XIME Bengaluru.
   We learn, build and compete in data analytics and AI.
-url: "https://xinsights-xime.github.io"
+url: ""
 theme: minima
 plugins:
   - jekyll-feed
